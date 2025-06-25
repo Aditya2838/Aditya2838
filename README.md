@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Aditya! 
 
-🚀 Full Stack Web Dev Intern @ eLogicTech | Engineering @ SNIST  
+🚀 Full Stack Web Dev | Engineering @ SNIST  
 🧠 Passionate about MERN, AI APIs & clean scalable systems  
 ⚙️ Currently building: AI-powered Job Portal - **HireWise**  
 📍 Hyderabad, India
@@ -59,7 +59,7 @@
 
 ## 📚 Currently Learning
 
-`Spring Boot`, `C# + Revit API`, `PL/SQL`, `PostgreSQL`, `Data Engineering`
+`Spring Boot`, `PL/SQL`, `PostgreSQL`, `Data Engineering`
 
 ---
 
