@@ -14,7 +14,6 @@
 ---
 
 ## 🔥 Featured Projects
-
 - 🎯 [**HireWise**]((https://aditya2838.github.io/H/))  
   *AI-powered job portal | Resume analyzer | Job-fit score calculator*  
   `MERN Stack`, `OpenAI API`, `MongoDB Atlas`, `Express`
@@ -22,7 +21,6 @@
 - 🏨 [Node Hotel App]((https://github.com/Aditya2838/hotels_nodejs))  
   *Full CRUD hotel booking system*  
   `Node.js`, `Express`, `MongoDB`, `Postman`
-
 - 📅 [College Event Management System]
   *PHP-based event scheduler for colleges*  
   `HTML`, `CSS`, `Bootstrap`, `PHP`, `MySQL`
