@@ -15,7 +15,7 @@
 
 ## 🔥 Featured Projects
 
-- 🎯 [**HireWise**](https://github.com/Aditya2838/hirewise)  
+- 🎯 [**HireWise**](https://github.com/Aditya2838/h)  
   *AI-powered job portal | Resume analyzer | Job-fit score calculator*  
   `MERN Stack`, `OpenAI API`, `MongoDB Atlas`, `Express`
 
