@@ -81,6 +81,6 @@
 - 💼 [LinkedIn](https://linkedin.com/in/kaveti-aditya)  
 - 🧠 [Leetcode](https://leetcode.com/aadityaa88)  
 - 💻 [GitHub](https://github.com/Aditya2838)  
-- 📫 kaveti.aditya@example.com *(replace with your actual email)*
+- 📫 aditya090037@example.com 
 
 ---
