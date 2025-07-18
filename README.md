@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Aditya! 
 
 🚀 Full Stack Web Dev | Engineering @ SNIST  
-🧠 Passionate about MERN, AI APIs & clean scalable systems  
+🧠 Passionate about MERN, Java, AI APIs & clean scalable systems  
 ⚙️ Currently building: AI-powered Job Portal - **HireWise**  
 📍 Hyderabad, India
 
@@ -9,9 +9,12 @@
 
 ## 🧰 Toolbox
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,react,express,mongodb,java,git,github,html,css,tailwind,figma,postman,vscode,c" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,express,mongodb,java,spring,git,github,html,css,tailwind,figma,postman,vscode,c" />
+
+---
 
 ## 🔥 Featured Projects
+
 - 🎯 [**HireWise**](https://aditya2838.github.io/H/)  
   *AI-powered job portal | Resume analyzer | Job-fit score calculator*  
   `MERN Stack`, `OpenAI API`, `MongoDB Atlas`, `Express`
@@ -20,10 +23,11 @@
   *Full CRUD hotel booking system*  
   `Node.js`, `Express`, `MongoDB`, `Postman`
 
-- 📅 [College Event Management System]()  
-  *PHP-based event scheduler for colleges*  
-  `HTML`, `CSS`, `Bootstrap`, `PHP`, `MySQL`
+- 📊 [TaskFlow – Full Stack Java Project](https://github.com/Aditya2838/taskflow-java) *(example link)*  
+  *Task management web app with Spring Boot + React*  
+  `Java`, `Spring Boot`, `React.js`, `MySQL`, `REST APIs`
 
+---
 
 ## 🏆 Achievements
 
@@ -31,7 +35,7 @@
 - 🌍 Global Rank: 12,810 / 32,063 – SmartInterviews  
 - 🧩 Virtual Internships – Bharat Intern (Web Dev), EduSkills (Full Stack)  
 - 🔥 LeetCode Rating: 1455  
-- ⚽ Football Captain – SNIST (4x Conference Champion)
+- ⚽ Football Captain – SNIST (4× Conference Champion)
 
 ---
 
@@ -61,7 +65,7 @@
 
 ## 📈 GitHub Metrics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Aditya2838&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Aditya2838&theme=dark&hide_border=true)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya2838&theme=github-compact)
 
 ---
@@ -77,9 +81,6 @@
 - 💼 [LinkedIn](https://linkedin.com/in/kaveti-aditya)  
 - 🧠 [Leetcode](https://leetcode.com/aadityaa88)  
 - 💻 [GitHub](https://github.com/Aditya2838)  
-- 📫 kaveti.aditya@example.com *(use GitHub mail or update with real one)*
+- 📫 kaveti.aditya@example.com *(replace with your actual email)*
 
 ---
-
-<!-- You can add Spotify / Blog auto-updaters below if needed -->
-
