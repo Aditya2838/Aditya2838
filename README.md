@@ -1,69 +1,77 @@
-# <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there,%20I'm%20Aditya!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/></div>
+# <div align="center">![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,100:764ba2&height=150&section=header&text=ADITYA%20KAVETI&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Engineer%20%7C%20AI%20Innovator&descAlignY=75&descSize=16)</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=25&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+Tomorrow's+Technology+%F0%9F%9A%80;MERN+%7C+Java+%7C+AI+%7C+Cloud+Expert+%E2%9A%A1;Transforming+Ideas+into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
+</p>
 
 <div align="center">
+  
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/Aditya2838)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=00D9FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🚀+Full+Stack+Web+Developer;💻+MERN+%7C+Java+%7C+Spring+Boot+Expert;🤖+AI+APIs+%26+Scalable+Systems+Architect;🏗️+Building+Tomorrow's+Tech+Today)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
-
-<div align="center">
-
-![](https://img.shields.io/badge/🎓_Engineering_Student-SNIST-FF6B6B?style=for-the-badge&labelColor=1a1a1a)
-![](https://img.shields.io/badge/📍_Location-Hyderabad,_India-4ECDC4?style=for-the-badge&labelColor=1a1a1a)
-![](https://img.shields.io/badge/💡_Philosophy-Build_the_Future-FFE66D?style=for-the-badge&labelColor=1a1a1a)
+![](https://img.shields.io/badge/🎯_Focus-Innovation%20%26%20Excellence-667eea?style=for-the-badge&logo=target&logoColor=white)
+![](https://img.shields.io/badge/📍_Base-Hyderabad,%20India-764ba2?style=for-the-badge&logo=location&logoColor=white)
+![](https://img.shields.io/badge/🎓_Institution-SNIST%20Engineering-667eea?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> **Currently Crafting Magic**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" height="35" /> **Mission Control: Current Projects**
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%">
 
-### 🤖 **HireWise** - AI Job Portal Revolution
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+### 🎯 **Project Nexus: HireWise Evolution**
+> *Next-generation AI recruitment ecosystem*
 
-```javascript
-const hirewise = {
-  vision: "Where AI meets talent acquisition",
+```typescript
+interface ProjectHireWise {
+  mission: "Revolutionizing talent acquisition with AI";
+  architecture: {
+    frontend: "React 18 + TypeScript + Tailwind";
+    backend: "Node.js + Express + MongoDB";
+    ai: "OpenAI GPT-4 + Custom ML Models";
+    cloud: "MongoDB Atlas + Vercel";
+  };
   features: {
-    aiResumeAnalyzer: "Smart CV parsing & scoring",
-    jobMatching: "ML-powered compatibility",
-    realTimeChat: "Instant communication",
-    analytics: "Data-driven insights"
-  },
-  techStack: ["React", "Node.js", "OpenAI", "MongoDB"],
-  status: "🚀 Live & Scaling"
-};
+    smartAnalysis: "CV parsing with 95% accuracy";
+    aiMatching: "Personality-job fit algorithm";
+    realTimeChat: "WebSocket communication";
+    analytics: "Advanced hiring insights";
+  };
+  status: "🟢 Production | 500+ active users";
+}
 ```
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF4081?style=for-the-badge&logo=react&logoColor=white)](https://aditya2838.github.io/H/)
+**🚀 Live Demo:** [Experience HireWise](https://aditya2838.github.io/H/)
 
 </td>
-<td width="50%" valign="top">
+<td width="40%">
 
-### 🧠 **Current Learning Adventure**
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
+### 🧪 **Lab Experiments**
 
-```python
-learning_roadmap = {
-    "backend_mastery": {
-        "spring_boot": "Microservices architecture",
-        "postgresql": "Advanced queries & optimization",
-        "system_design": "Scalable solutions"
+```json
+{
+  "currentResearch": {
+    "microservices": {
+      "tech": "Spring Boot + Docker",
+      "focus": "Scalable architectures"
     },
-    "devops_journey": {
-        "jenkins": "CI/CD automation",
-        "docker": "Containerization",
-        "kubernetes": "Orchestration"
+    "devops": {
+      "pipeline": "Jenkins + GitHub Actions",
+      "containerization": "Docker + K8s"
     },
-    "dsa_grind": ["Trees", "Graphs", "Dynamic Programming"]
+    "databases": {
+      "sql": "PostgreSQL optimization",
+      "nosql": "MongoDB aggregation"
+    }
+  },
+  "learningPath": [
+    "System Design Patterns",
+    "Cloud Architecture (AWS)",
+    "Data Engineering Pipelines"
+  ]
 }
 ```
 
@@ -71,82 +79,101 @@ learning_roadmap = {
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+---
 
-## <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30"> **Tech Arsenal**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" height="35" /> **Technology Arsenal**
 
 <div align="center">
 
-### **🚀 Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,nodejs,react,nextjs,spring,express,fastapi&perline=10&theme=dark" />
+### **Core Technologies**
+![Tech Stack](https://skillicons.dev/icons?i=js,ts,java,python,c,cpp,html,css&theme=dark)
 
-### **🗄️ Databases & Cloud**
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,aws,gcp,docker,kubernetes&perline=8&theme=dark" />
+### **Frameworks & Libraries**
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,fastapi,tailwind,bootstrap&theme=dark)
 
-### **🛠️ Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,jenkins,nginx&perline=8&theme=dark" />
+### **Databases & Cloud**
+![Databases](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,aws,gcp,firebase,supabase&theme=dark)
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=github_dark&line1=react,reactjs,React;nodejs,node,Node.js;mongodb,mongo,MongoDB;&line2=java,java,Java;spring,springboot,Spring%20Boot;postgresql,postgres,PostgreSQL;&line3=docker,docker,Docker;kubernetes,k8s,Kubernetes;aws,amazonaws,AWS;" />
+### **DevOps & Tools**
+![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,vscode,postman,figma&theme=dark)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+<div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"> **Featured Projects**
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Expertise%20Radar&align=center&titleAlign=center&fontSize=20&lineCount=2&theme=github_dark&line1=javascript,js,95;typescript,ts,90;java,java,88;react,react,92;&line2=nodejs,node,90;mongodb,mongo,85;aws,aws,75;docker,docker,80;" alt="Tech Stack" />
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="Fire" width="35" height="35" /> **Portfolio Showcase**
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/229223156-143a1cd7-1d6a-4ae1-8c67-27b5bb12ef88.gif" width="200"/>
 
-### 🎯 [**HireWise**](https://aditya2838.github.io/H/)
-**AI-Powered Recruitment Platform**
+### 🤖 **HireWise Platform**
+*AI-Powered Recruitment Revolution*
 
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](#)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](#)
+<img src="https://github.com/Aditya2838/Aditya2838/assets/placeholder-demo.gif" width="250" height="150" alt="HireWise Demo"/>
 
-**🔥 Features:**
-- AI Resume Analysis
-- Smart Job Matching
-- Real-time Analytics
-- Automated Screening
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)](#)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)](#)
+
+**🌟 Highlights:**
+- Smart Resume Analysis
+- AI Job Matching Engine
+- Real-time Communication
+- Advanced Analytics Dashboard
+
+[![Demo](https://img.shields.io/badge/🚀_Live_Demo-667eea?style=for-the-badge)](https://aditya2838.github.io/H/)
 
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200"/>
 
-### 🏨 [**Node Hotel System**](https://github.com/Aditya2838/hotels_nodejs)
-**Full-Stack Booking Platform**
+### 🏨 **Hotel Nexus System**
+*Enterprise Booking Platform*
 
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](#)
-[![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](#)
+<img src="https://github.com/Aditya2838/Aditya2838/assets/placeholder-hotel.gif" width="250" height="150" alt="Hotel System"/>
 
-**🔥 Features:**
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)](#)
+[![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)](#)
+[![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=flat-square)](#)
+
+**🌟 Highlights:**
 - Complete CRUD Operations
-- JWT Authentication
-- Payment Integration
-- Admin Dashboard
+- JWT Authentication System
+- Payment Gateway Integration
+- Real-time Availability
+
+[![Code](https://img.shields.io/badge/📋_Source_Code-764ba2?style=for-the-badge)](https://github.com/Aditya2838/hotels_nodejs)
 
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200"/>
 
-### 📊 [**TaskFlow Enterprise**](https://github.com/Aditya2838/taskflow-java)
-**Java Spring Boot Platform**
+### 📊 **TaskFlow Enterprise**
+*Java Spring Boot Ecosystem*
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](#)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#)
+<img src="https://github.com/Aditya2838/Aditya2838/assets/placeholder-taskflow.gif" width="250" height="150" alt="TaskFlow Demo"/>
 
-**🔥 Features:**
+[![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat-square)](#)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)](#)
+
+**🌟 Highlights:**
 - Microservices Architecture
-- Spring Security
-- Task Automation
-- Team Collaboration
+- Spring Security Implementation
+- RESTful API Design
+- Team Collaboration Tools
+
+[![Code](https://img.shields.io/badge/📋_Source_Code-667eea?style=for-the-badge)](https://github.com/Aditya2838/taskflow-java)
 
 </td>
 </tr>
@@ -154,144 +181,163 @@ learning_roadmap = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30"> **Achievements & Recognition**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" height="35" /> **Achievement Vault**
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223168-8b6fb863-9ecf-4669-9f95-b462a8c5e06f.gif" width="600">
 
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60"/><br>
-<img src="https://img.shields.io/badge/SmartInterviews-Bronze_Coder-CD7F32?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/1st%20Place%20Medal.png" width="50"/>
+<br><strong>SmartInterviews</strong>
+<br>Bronze Coder Badge
+<br><sub>Problem Solving Excellence</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60"/><br>
-<img src="https://img.shields.io/badge/Global_Rank-12,810_/_32,063-FFD700?style=for-the-badge&logo=trophy&logoColor=black"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="50"/>
+<br><strong>Global Ranking</strong>
+<br>12,810 / 32,063
+<br><sub>Top 40% Worldwide</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/235294009-8e2ce7c4-744b-4b6c-8b84-66f3ff027c6c.gif" width="60"/><br>
-<img src="https://img.shields.io/badge/LeetCode-1455_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="50"/>
+<br><strong>LeetCode Rating</strong>
+<br>1455 Points
+<br><sub>Active Problem Solver</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"/><br>
-<img src="https://img.shields.io/badge/Football_Captain-4×_Champion-32CD32?style=for-the-badge&logo=star&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Soccer%20Ball.png" width="50"/>
+<br><strong>Sports Leadership</strong>
+<br>Football Captain
+<br><sub>4× Conference Champion</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="60"/><br>
-<img src="https://img.shields.io/badge/Internships-Completed-FF6B6B?style=for-the-badge&logo=briefcase&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="50"/>
+<br><strong>Certifications</strong>
+<br>Multiple Domains
+<br><sub>Continuous Learning</sub>
 </td>
 </tr>
 </table>
 
-### 🎓 **Certifications Vault**
-<img src="https://img.shields.io/badge/🏅_AICTE_EduSkills-Full_Stack_Dev-4A90E2?style=for-the-badge&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/🏅_Bharat_Intern-Web_Development-7B68EE?style=for-the-badge&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/🏅_SmartInterviews-Problem_Solving-50C878?style=for-the-badge&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/🏅_Coursework-DSA_|_DBMS_|_OS_|_Networks-FF7F50?style=for-the-badge&labelColor=1a1a1a"/>
+### **🎓 Certification Portfolio**
+![AICTE](https://img.shields.io/badge/AICTE_EduSkills-Full%20Stack%20Development-success?style=flat-square&logo=graduation-cap)
+![Bharat Intern](https://img.shields.io/badge/Bharat_Intern-Web%20Development-blue?style=flat-square&logo=briefcase)
+![SmartInterviews](https://img.shields.io/badge/SmartInterviews-Problem%20Solving%20Bronze-orange?style=flat-square&logo=code)
+![Coursework](https://img.shields.io/badge/Academic-DSA%20|%20DBMS%20|%20OS%20|%20Networks-purple?style=flat-square&logo=book)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+---
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294048-6d7da96c-2d83-4a1a-aa9c-c7b8e3d75ca2.gif" width="30"> **GitHub Analytics**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Analytics" width="35" height="35" /> **Performance Analytics**
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/235294155-551b4884-dce7-4c73-a9b1-ad2a4106b4bb.gif" width="600">
 
 <table>
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aditya2838&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=⚡%20GitHub%20Stats&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" width="100%"/>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya2838&show_icons=true&theme=react&hide_border=true&bg_color=1a1a2e&title_color=667eea&icon_color=764ba2&text_color=ffffff&custom_title=⚡%20GitHub%20Performance" width="100%"/>
 </td>
-<td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aditya2838&layout=compact&langs_count=8&theme=tokyonight&custom_title=💻%20Most%20Used%20Languages&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" width="100%"/>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya2838&layout=compact&theme=react&hide_border=true&bg_color=1a1a2e&title_color=667eea&text_color=ffffff&custom_title=💻%20Code%20Distribution&langs_count=8" width="100%"/>
 </td>
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=Aditya2838&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8B949E" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya2838&theme=react&hide_border=true&background=1a1a2e&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=a0a0a0" width="60%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya2838&custom_title=📊%20Contribution%20Activity&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya2838&custom_title=📈%20Contribution%20Timeline&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=667eea&line=764ba2&point=ffffff" width="90%"/>
 
-### 📈 **GitHub Trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=Aditya2838&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="70%"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> **Philosophy & Vision**
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-
-> ### *"Code is not just logic — it's your ability to **deliver value at scale** and **transform ideas into reality** that impacts millions of lives."*
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" width="60%"/>
+### **🏆 Achievement Showcase**
+<img src="https://github-profile-trophy.vercel.app/?username=Aditya2838&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true" width="80%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+---
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294053-7e1bf5dd-6b51-4f09-a544-b6d6c78e6d89.gif" width="30"> **Let's Connect & Build Together**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Philosophy" width="35" height="35" /> **Innovation Philosophy**
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223168-8b6fb863-9ecf-4669-9f95-b462a8c5e06f.gif" width="600">
+<img src="https://readme-quotes-api.vercel.app/quote?theme=dark&animation=grow_out_in&layout=churchill&font=redhat&fontSize=20" alt="Quote"/>
+
+> ### *"Innovation distinguishes between a leader and a follower. Code with purpose, build with passion, and deploy with precision."*
+> 
+> **— My Development Manifesto**
+
+```javascript
+const myPhilosophy = {
+  vision: "Transform complex problems into elegant solutions",
+  approach: "User-centric design meets robust engineering",
+  values: ["Innovation", "Quality", "Collaboration", "Continuous Learning"],
+  goal: "Build technology that makes a meaningful impact"
+};
+```
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Connect" width="35" height="35" /> **Mission Control: Let's Connect**
+
+<div align="center">
 
 <table>
 <tr>
 <td align="center" width="25%">
 <a href="https://linkedin.com/in/kaveti-aditya">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"/>
-<br><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="50"/>
+<br>**LinkedIn**
+<br>Professional Network
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://leetcode.com/aadityaa88">
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="80"/>
-<br><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="50"/>
+<br>**LeetCode**
+<br>Problem Solving
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://github.com/Aditya2838">
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="80"/>
-<br><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="50"/>
+<br>**GitHub**
+<br>Code Repository
 </a>
 </td>
 <td align="center" width="25%">
 <a href="mailto:aditya090037@example.com">
-<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="80"/>
-<br><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="50"/>
+<br>**Email**
+<br>Direct Contact
 </a>
 </td>
 </tr>
 </table>
 
-### 💌 **I'm Open For:**
-<img src="https://img.shields.io/badge/🚀_Freelance_Projects-Available-00D9FF?style=for-the-badge&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/🔥_Open_Source-Contributions-FF6B6B?style=for-the-badge&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/💼_Internship-Opportunities-4ECDC4?style=for-the-badge&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/badge/🧠_Tech-Discussions-FFE66D?style=for-the-badge&labelColor=1a1a1a"/>
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Aditya2838&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Aditya2838?style=for-the-badge&color=FF6B6B&labelColor=1a1a1a)](https://github.com/Aditya2838)
-[![GitHub stars](https://img.shields.io/github/stars/Aditya2838?style=for-the-badge&color=4ECDC4&labelColor=1a1a1a)](https://github.com/Aditya2838)
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24f6e81.gif" width="30" /> **Don't forget to star ⭐ my repositories if you find them interesting!** <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24f6e81.gif" width="30" />
+### **🚀 Collaboration Opportunities**
+[![Freelance](https://img.shields.io/badge/💼_Freelance_Projects-Open%20for%20Discussion-667eea?style=for-the-badge&logo=handshake&logoColor=white)](mailto:aditya090037@example.com)
+[![Open Source](https://img.shields.io/badge/🌟_Open_Source-Active%20Contributor-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya2838)
+[![Mentorship](https://img.shields.io/badge/🎓_Mentorship-Available-667eea?style=for-the-badge&logo=academic-cap&logoColor=white)](https://linkedin.com/in/kaveti-aditya)
+[![Tech Talks](https://img.shields.io/badge/🎤_Tech_Discussions-Always%20Interested-764ba2?style=for-the-badge&logo=microphone&logoColor=white)](https://linkedin.com/in/kaveti-aditya)
 
 </div>
 
+---
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Aditya2838&color=667eea&style=for-the-badge&label=PROFILE+VISITORS)
+[![GitHub followers](https://img.shields.io/github/followers/Aditya2838?style=for-the-badge&color=764ba2&labelColor=1a1a2e&logo=github)](https://github.com/Aditya2838?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Aditya2838?style=for-the-badge&color=667eea&labelColor=1a1a2e&logo=star)](https://github.com/Aditya2838?tab=repositories)
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="25" height="25" /> **If you find my work interesting, don't forget to star my repositories!** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="25" height="25" />
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=fadeIn)
+
 </div>
